@@ -39,6 +39,34 @@ img {
 }
 
 h2 {
-	color: #6f7f7A;
+	color: rgb(111,127,122);
 	font-size: 2em;
+}
+
+p {
+    color: #555;
+    font-size: 1em;
+    margin: 0 0 20px 0;
+}
+
+.press {
+	margin-bottom: 20px;
+}
+
+.press img {
+	border-color: #ccc;
+	padding: 1px;
+}
+
+.press img:hover {
+	border-color: #6F7F7A;
+}
+
+footer {
+	text-align:right;
+}
+footer p {
+	font-size:0.8em;
+	color: #555;
+	margin: 0 0 20px 0;
 }
