@@ -65,8 +65,9 @@ p {
 footer {
 	text-align:right;
 }
+
 footer p {
 	font-size:0.8em;
-	color: #555;
+	color: rgb(152,173,166);
 	margin: 0 0 20px 0;
 }
